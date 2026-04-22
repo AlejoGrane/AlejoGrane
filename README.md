@@ -8,12 +8,13 @@
 💻 Backend Developer
 </div>
 </p>
+<br>
 <h1 align=center>Sobre mi 😄</h1>
 <div align="center">
 Soy un tecnico en computación, con experiencia en proyectos trabajados durante mi secundaria, soy un developer autodidacta especializado en desarrollo backend, aunque tambien se bastante sobre frontend, aunque en mi secundaria aprendi los fundamentos de la programacion asi como varios lenguajes en los cuales fui trabajando a lo largo del tiempo, actualmente no cuento con un trabajo, pero aqui pueden encontrar varios de mis proyectos. 😁
 </div>
+<br>
 <h1 align=center>Tecnologías 👾</h1>
-<!--tech stack icons-->
 <div align=center>
     <h3>Frontend</h3>
     <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
@@ -22,7 +23,6 @@ Soy un tecnico en computación, con experiencia en proyectos trabajados durante 
     <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </div>
-<br>
 <div align=center>
   <h1> Mis estadisticas </h1> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
