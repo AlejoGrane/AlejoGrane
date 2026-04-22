@@ -10,7 +10,11 @@
 </p>
 <h1 align=center>Sobre mi 😄</h1>
 <div align="center">
-Soy un tecnico en computación, con experiencia en proyectos trabajados durante mi secundaria, soy un developer autodidacta especializado en desarrollo backend, aunque tambien se bastante sobre frontend, aunque en mi secundaria aprendi los fundamentos de la programacion asi como varios lenguajes en los cuales fui trabajando a lo largo del tiempo, actualmente no cuento con un trabajo, pero aqui pueden encontrar varios de mis proyectos. 😁
+Soy técnico en computación con experiencia en proyectos desarrollados durante mi formación secundaria. Soy desarrollador autodidacta, especializado en backend, aunque también cuento con sólidos conocimientos de frontend.
+
+Durante mi paso por la secundaria adquirí una base sólida en programación y trabajé con diversos lenguajes, lo que me permitió seguir profundizando y desarrollándome de forma independiente.
+
+Actualmente me encuentro en búsqueda de mi primera oportunidad laboral, donde pueda aportar mis conocimientos y seguir creciendo profesionalmente. A continuación, pueden encontrar algunos de mis proyectos. 😁
 </div>
 <br>
 <h1 align=center>Tecnologías 👾</h1>
@@ -23,7 +27,7 @@ Soy un tecnico en computación, con experiencia en proyectos trabajados durante 
     <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </div>
 <div align=center>
-  <h1> Mis estadisticas </h1> 
+  <h1> Mis estadisticas 📕</h1> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
 <br>
   </div>
