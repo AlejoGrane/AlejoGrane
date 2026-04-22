@@ -4,7 +4,7 @@
 <a href="https://es.quora.com/profile/AlejoGran%C3%A9" target="_blank"><img align="center" src="https://img.shields.io/badge/QUORA-%23A82400?style=for-the-badge&logo=quora" alt="@AlejoGrane"/></a>
 <a href = "mailto:alejograne@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/GMAIL-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white" alt="@AlejoGrane"/></a>
 <div align="center">
-🎓 Tecnico en Computación -
+🎓 Técnico en Computación -
 💻 Backend Developer
 </div>
 </p>
