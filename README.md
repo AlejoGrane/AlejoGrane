@@ -27,11 +27,10 @@
 <div align=center>
   <h1> Mis estadisticas 📕</h1> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
-<br>
-  </div>
+</div>
 <div align=center>
 <a href="https://github.com/AlejoGrane">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejoGrane&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejoGrane&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejoGrane&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejoGrane&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
