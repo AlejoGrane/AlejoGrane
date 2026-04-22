@@ -10,11 +10,9 @@
 </p>
 <h1 align=center>Sobre mi 😄</h1>
 <div align="center">
-Soy técnico en computación con experiencia en proyectos desarrollados durante mi formación secundaria. Soy desarrollador autodidacta, especializado en backend, aunque también cuento con sólidos conocimientos de frontend.
-    
-Durante mi paso por la secundaria adquirí una base sólida en programación y trabajé con diversos lenguajes, lo que me permitió seguir profundizando y desarrollándome de forma independiente.
-
-Actualmente me encuentro en búsqueda de mi primera oportunidad laboral, donde pueda aportar mis conocimientos y seguir creciendo profesionalmente. A continuación, pueden encontrar algunos de mis proyectos. 😁
+<p>Soy técnico en computación con experiencia en proyectos desarrollados durante mi formación secundaria. Soy desarrollador autodidacta, especializado en backend, aunque también cuento con sólidos conocimientos de frontend.</p>
+<p>Durante mi paso por la secundaria adquirí una base sólida en programación y trabajé con diversos lenguajes, lo que me permitió seguir profundizando y desarrollándome de forma independiente.</p>
+<p>Actualmente me encuentro en búsqueda de mi primera oportunidad laboral, donde pueda aportar mis conocimientos y seguir creciendo profesionalmente. A continuación, pueden encontrar algunos de mis proyectos. 😁</p>
 </div>
 <br>
 <h1 align=center>Tecnologías 👾</h1>
