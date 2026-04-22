@@ -8,7 +8,6 @@
 💻 Backend Developer
 </div>
 </p>
-<br>
 <h1 align=center>Sobre mi 😄</h1>
 <div align="center">
 Soy un tecnico en computación, con experiencia en proyectos trabajados durante mi secundaria, soy un developer autodidacta especializado en desarrollo backend, aunque tambien se bastante sobre frontend, aunque en mi secundaria aprendi los fundamentos de la programacion asi como varios lenguajes en los cuales fui trabajando a lo largo del tiempo, actualmente no cuento con un trabajo, pero aqui pueden encontrar varios de mis proyectos. 😁
