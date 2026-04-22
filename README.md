@@ -15,6 +15,16 @@
 <p>Actualmente me encuentro en búsqueda de mi primera oportunidad laboral, donde pueda aportar mis conocimientos y seguir creciendo profesionalmente. A continuación, pueden encontrar algunos de mis proyectos. 😁</p>
 </div>
 <br>
+<h1 align=center>Proyectos ✉</h1>
+# proyecto de ejemplo
+<div align=center>
+    <h3>Frontend</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
+    <h3>Backend y Bases de Datos</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql&theme=dark" />
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+</div>
 <h1 align=center>Tecnologías 👾</h1>
 <div align=center>
     <h3>Frontend</h3>
@@ -25,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </div>
 <div align=center>
-  <h1> Mis estadisticas 📕</h1> 
+  <h1> Mis estadisticas 📊</h1> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
 </div>
 <div align=center>
