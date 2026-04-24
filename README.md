@@ -25,7 +25,7 @@
     <h3>Backend y Bases de Datos</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql&theme=dark" />
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,claude&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </div>
 <div align=center>
   <h1> Mis estadisticas 📊</h1> 
