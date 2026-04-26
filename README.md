@@ -15,6 +15,11 @@
 <p>Actualmente me encuentro en búsqueda de mi primera oportunidad laboral, donde pueda aportar mis conocimientos y seguir creciendo profesionalmente. A continuación, pueden encontrar algunos de mis proyectos. 😁</p>
 </div>
 <br>
+<h1>Certificados✔</h1>
+- **Claude Code Course**  
+  Plataforma: Anthropic  
+  Fecha: Abril 2026  
+  🔗 Ver certificado: https://verify.skilljar.com/c/ftktz3k5brcz
 <h1 align=center>Proyectos ✉</h1>
 <div align=center>   
 </div>
