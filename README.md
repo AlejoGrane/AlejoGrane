@@ -17,8 +17,8 @@
 <br>
 <h1 align="center">Certificados✔</h1>
 <section>
-    <div align=center color=red>   
-        <h3 style="background-color: red;">- Claude Code 101</h3>
+    <div align=center style="border: 2px solid black">   
+        <h3>- Claude Code 101</h3>
         <a href="https://verify.skilljar.com/c/ftktz3k5brcz">Ver Certificado🔗</a>
     </div>
 </section>
