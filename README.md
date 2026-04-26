@@ -15,9 +15,9 @@
 <p>Actualmente me encuentro en búsqueda de mi primera oportunidad laboral, donde pueda aportar mis conocimientos y seguir creciendo profesionalmente. A continuación, pueden encontrar algunos de mis proyectos. 😁</p>
 </div>
 <br>
-<h1 align="center">Certificados✔</h1>
-<section>
-    <div align=center style="border: 2px solid black">   
+<section align=center>
+    <h1>Certificados✔</h1>
+    <div>   
         <h3>- Claude Code 101</h3>
         <a href="https://verify.skilljar.com/c/ftktz3k5brcz">Ver Certificado🔗</a>
     </div>
