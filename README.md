@@ -17,9 +17,9 @@
 <br>
 <h1>Certificados✔</h1>
 - **Claude Code Course**  
-  Plataforma: Anthropic  
-  Fecha: Abril 2026  
-  🔗 Ver certificado: https://verify.skilljar.com/c/ftktz3k5brcz
+  🏢 Plataforma: Anthropic  
+  📅 Fecha: Abril 2026  
+  🔗 [Ver certificado](https://verify.skilljar.com/c/ftktz3k5brcz)
 <h1 align=center>Proyectos ✉</h1>
 <div align=center>   
 </div>
