@@ -16,19 +16,21 @@
 </div>
 <br>
 <h1>Certificados✔</h1>
-<div>
-    <h3>- Claude Code 101</h3>
-    <a href="https://verify.skilljar.com/c/ftktz3k5brcz">Ver Certificado🔗</a>
-</div>
+<section>
+    <div align=center color=red>   
+        <h3>- Claude Code 101</h3>
+        <a href="https://verify.skilljar.com/c/ftktz3k5brcz">Ver Certificado🔗</a>
+    </div>
+</section>
 <h1 align=center>Proyectos ✉</h1>
-<div align=center>   
-</div>
+<section align=center>   
+</section>
 <h1 align=center>Tecnologías 👾</h1>
-<div align=center>
+<section align=center>
     <h3>Frontend</h3>
     <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
     <h3>Backend y Bases de Datos</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql&theme=dark" />
     <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
-</div>
+</section>
