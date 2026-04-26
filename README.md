@@ -16,8 +16,10 @@
 </div>
 <br>
 <h1>Certificados✔</h1>
-<h4>- Claude Code 101</h4>
-<a href="https://verify.skilljar.com/c/ftktz3k5brcz">Ver Certificado🔗</a>)
+<div>
+    <h4>- Claude Code 101</h4>
+    <a href="https://verify.skilljar.com/c/ftktz3k5brcz">Ver Certificado🔗</a>
+</div>
 <h1 align=center>Proyectos ✉</h1>
 <div align=center>   
 </div>
