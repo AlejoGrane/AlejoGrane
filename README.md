@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alejo 👋</h1>   
+<h3 align="center">Hi, I'm Alejo 👋</h3>   
 <p align="center">
 <a href="https://www.linkedin.com/in/alejo-gran%C3%A9-572635326/" target="_blank"><img align="center" src="https://img.shields.io/badge/LINKEDIN-%230072b1?style=for-the-badge" alt="@AlejoGrane"/></a>
 <a href = "mailto:alejograne@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/GMAIL-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white" alt="@AlejoGrane"/></a>
