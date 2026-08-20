@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=fb0000&text=Hi,%20I%27m%20Alejo%20%F0%9F%91%8B&fontColor=000000&desc=%F0%9F%8E%93%20Computer%20Technician%20-%20%F0%9F%92%BB%20Backend%20Developer&descAlign=50&descAlignY=60&fontAlignY=40&textBg=false&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=10:34d399,80:1b664b&text=Hi,%20I'm%20Alejo👋&fontColor=e7ede9&reversal=false&textBg=false&animation=fadeIn&stroke=1a2620&strokeWidth=7&desc=Junior%20Backend%20Developer%20·%20Computer%20Technician&fontAlignY=39&fontAlign=51&descSize=24)
 <div align="center">
 <a href="https://www.linkedin.com/in/alejo-gran%C3%A9-572635326/" target="_blank"><img align="center" src="https://img.shields.io/badge/LINKEDIN-%230072b1?style=for-the-badge" alt="@AlejoGrane"/></a>
 <a href = "mailto:alejograne@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/GMAIL-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white" alt="@AlejoGrane"/></a>
