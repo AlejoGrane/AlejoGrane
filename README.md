@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=10:34d399,80:1b664b&text=Hi,%20I'm%20Alejo👋&fontColor=e7ede9&reversal=false&textBg=false&animation=fadeIn&stroke=1a2620&strokeWidth=7&desc=Junior%20Backend%20Developer%20·%20Computer%20Technician&fontAlignY=39&fontAlign=51&descSize=24) -->
 <p>
   <img
-    src="./img/banner"
+    src="./img/banner.png"
     alt="Alejo Grané - Junior Backend Developer"
     width="100%"
   />>
