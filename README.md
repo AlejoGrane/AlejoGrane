@@ -19,4 +19,5 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </section>
 <h1 align="left">Projects</h1>
-<!-- PROJECTS START --><!-- PROJECTS END -->
+<!-- PROJECTS START -->
+<!-- PROJECTS END -->
