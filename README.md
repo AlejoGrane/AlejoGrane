@@ -16,7 +16,7 @@
   /></a>
 </section> -->
 <section align="left">
-  <h1>About Me 🙌</h1>
+  <h2>About Me 🙌</h2>
   <p>
     Computer Technician with hands-on experience building projects during my
     technical secondary education. I'm a self-taught developer focused on
@@ -26,7 +26,7 @@
   </p>
 </section>
 <section align="left">
-  <h1>Technologies 💻</h1>
+  <h2>Technologies 💻</h2>
   <h3>Languages</h3>
   <img
     src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,mysql,mongodb&theme=dark"
@@ -34,8 +34,8 @@
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </section>
-<h1 align="left">Projects ⚡</h1>
-  <a href="https://github.com/AlejoGrane/Expense-Tracker-API"
-    >Expense Tracker API</a
-  > · REST API to manage and organize personal expenses.
-
+<h2 align="left">Projects ⚡</h2>
+<a href="https://github.com/AlejoGrane/Expense-Tracker-API"
+  >Expense Tracker API</a
+>
+· REST API to manage and organize personal expenses.
