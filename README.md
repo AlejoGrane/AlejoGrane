@@ -28,7 +28,7 @@
 <section align="left">
   <h2>Projects ⚡</h2>
   <a href="https://github.com/AlejoGrane/Expense-Tracker-API"
-    >Expense Tracker API</a
+    >- Expense Tracker API</a
   >
   · REST API to manage and organize personal expenses.
 </section>
