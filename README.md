@@ -28,6 +28,6 @@
 <section align="left">
   <h2>Contacts 📩</h2>
   <img
-    src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,mysql,mongodb&theme=dark"
+    src="https://skillicons.dev/icons?i=gmail&theme=dark"
   />
 </section>
