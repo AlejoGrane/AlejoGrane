@@ -35,8 +35,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </section>
 <h1 align="left">Projects ⚡</h1>
-<h4 align="left">
   <a href="https://github.com/AlejoGrane/Expense-Tracker-API"
     >Expense Tracker API</a
-  >:</h4> REST API to manage and organize personal expenses
+  >: REST API to manage and organize personal expenses
 
