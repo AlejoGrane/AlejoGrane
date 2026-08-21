@@ -41,5 +41,5 @@
 · REST API to manage and organize personal expenses.
 </section>
 <section align="left">
-[![Email](https://img.shields.io/badge/Email-alejograne%40gmail.com-34D399?style=for-the-royaledge&logo=gmail&logoColor=white)](mailto:alejograne@gmail.com)
+https://img.shields.io/badge/Email-alejograne%40gmail.com-34D399?style=for-the-royaledge&logo=gmail&logoColor=white
 </section>
