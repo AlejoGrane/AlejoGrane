@@ -34,8 +34,12 @@
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </section>
-<h2 align="left">Projects ⚡</h2>
+<section align="left"><h2>Projects ⚡</h2>
 <a href="https://github.com/AlejoGrane/Expense-Tracker-API"
   >Expense Tracker API</a
 >
 · REST API to manage and organize personal expenses.
+</section>
+<section align="left">
+[![Email](https://img.shields.io/badge/Email-alejograne%40gmail.com-34D399?style=for-the-royaledge&logo=gmail&logoColor=white)](mailto:alejograne@gmail.com)
+</section>
