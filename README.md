@@ -4,7 +4,7 @@
     src="./img/banner.png"
     alt="Alejo Grané - Junior Backend Developer"
     width="100%"
-  />>
+  />
 </p>
 <section align="left">
   <h2>About Me 🙌</h2>
