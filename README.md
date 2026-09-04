@@ -19,10 +19,10 @@
 </section>
 <section align="left">
   <h2>Projects ⚡</h2>
-  <a href="https://github.com/AlejoGrane/Expense-Tracker-API"
-    >- Expense Tracker API</a
+  <a href="https://github.com/AlejoGrane/Finance-Tracker-API"
+    >- Finance Tracker API</a
   >
-  · REST API to manage and organize personal expenses.
+  · REST API to manage and organize personal finances.
 </section>
 <section align="left">
   <h2>Contacts 📩</h2>
