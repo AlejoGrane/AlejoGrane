@@ -10,23 +10,23 @@
   </p>
 </section>
 <section align="left">
-  <h3>Technologies 💻</h3>
-  <h2>Languages</h2>
+  <h1>Technologies 💻</h1>
+  <h3>Languages</h3>
   <img
     src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,mysql,mongodb&theme=dark"
   />
-  <h2>Tools</h2>
+  <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </section>
 <section align="left">
-  <h3>Projects ⚡</h3>
+  <h1>Projects ⚡</h1>
   <a href="https://github.com/AlejoGrane/Finance-Tracker-API"
     >- Finance Tracker API</a
   >
   · REST API to manage and organize personal finances.
 </section>
 <section align="left">
-  <h3>Contacts 📩</h3>
+  <h1>Contacts 📩</h1>
   <a
     href="https://www.linkedin.com/in/alejo-gran%C3%A9-572635326/"
     target="_blank"
