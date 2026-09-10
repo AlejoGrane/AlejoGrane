@@ -1,6 +1,6 @@
 <img width="2056" height="765" src="https://github.com/user-attachments/assets/91ad6758-38e1-46c8-b87d-fdc60b50f7ec" />
 <section align="left">
-  <h3>About Me 🙌</h3>
+  <h1>About Me 🙌</h1>
   <p>
     Computer Technician with hands-on experience building projects during my
     technical secondary education. I'm a self-taught developer focused on
