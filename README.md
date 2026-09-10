@@ -1,3 +1,4 @@
+<img width="2056" height="765" src="https://github.com/user-attachments/assets/91ad6758-38e1-46c8-b87d-fdc60b50f7ec" />
 <section align="left">
   <h2>About Me 🙌</h2>
   <p>
