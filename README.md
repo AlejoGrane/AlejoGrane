@@ -1,6 +1,6 @@
 <img width="2056" height="765" src="https://github.com/user-attachments/assets/91ad6758-38e1-46c8-b87d-fdc60b50f7ec" />
 <section align="left">
-  <h1>About Me 🙌</h1>
+  <h2>About Me 🙌</h2>
   <p>
     Computer Technician with hands-on experience building projects during my
     technical secondary education. I'm a self-taught developer focused on
@@ -10,7 +10,7 @@
   </p>
 </section>
 <section align="left">
-  <h1>Technologies 💻</h1>
+  <h2>Technologies 💻</h2>
   <h3>Languages</h3>
   <img
     src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,mysql,mongodb&theme=dark"
@@ -19,14 +19,14 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </section>
 <section align="left">
-  <h1>Projects ⚡</h1>
+  <h2>Projects ⚡</h2>
   <a href="https://github.com/AlejoGrane/Finance-Tracker-API"
     >- Finance Tracker API</a
   >
   · REST API to manage and organize personal finances.
 </section>
 <section align="left">
-  <h1>Contacts 📩</h1>
+  <h2>Contacts 📩</h2>
   <a
     href="https://www.linkedin.com/in/alejo-gran%C3%A9-572635326/"
     target="_blank"
