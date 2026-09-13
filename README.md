@@ -41,4 +41,13 @@
       src="https://img.shields.io/badge/GMAIL-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white"
       alt="@AlejoGrane"
   /></a>
+  <a
+    href="https://alejograne-dev.netlify.app/"
+    target="_blank">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/PORTFOLIO-?style=for-the-badge"
+      alt="@AlejoGrane"
+      >
+  </a>
 </section>
