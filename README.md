@@ -46,7 +46,7 @@
     target="_blank">
     <img
       align="center"
-      src="https://img.shields.io/badge/PORTFOLIO-?style=for-the-badge"
+      src="https://img.shields.io/badge/PORTFOLIO-white?style=for-the-badge"
       alt="@AlejoGrane"
       >
   </a>
